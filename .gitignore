@@ -1,0 +1,15 @@
+# Roblox
+*.rbxl
+*.rbxlx
+
+# Rojo
+/.rojo/
+
+# Editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
